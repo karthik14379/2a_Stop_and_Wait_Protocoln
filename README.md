@@ -1,4 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
+##  NAME : KARTHIK P
+## REGISTER NUMBER : 212223045001
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
